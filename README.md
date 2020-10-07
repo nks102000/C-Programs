@@ -20,3 +20,6 @@ Create a class to store an integer array. Overload insertion and extraction
 operator to input and display the array elements.
 
 4th program
+Create a class which allocates the memory for a string through dynamic
+constructor. Overload the binary + to concatenate two strings and display it.
+Overload the assignment operator.
