@@ -18,3 +18,5 @@ Overload the ++ (post and operator for the class.
 
 Create a class to store an integer array. Overload insertion and extraction
 operator to input and display the array elements.
+
+4th program
