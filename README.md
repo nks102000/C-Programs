@@ -13,3 +13,8 @@ b) Unary -
 
 Create a class which a complex number. Add two objects and display the resultant object.
 Overload the ++ (post and operator for the class.
+
+3rd Program
+
+Create a class to store an integer array. Overload insertion and extraction
+operator to input and display the array elements.
