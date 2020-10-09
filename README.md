@@ -28,3 +28,5 @@ Overload the assignment operator.
 WAP to add two objects of time class. Overload the operator ‘==’ to
 compare two objects and display whether they are equal or not. Overload the
 assignment operator.
+
+6th
