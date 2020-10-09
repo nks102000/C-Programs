@@ -30,3 +30,7 @@ compare two objects and display whether they are equal or not. Overload the
 assignment operator.
 
 6th
+WAP to add two objects of distance class. Overload the operator ‘&gt;’ to
+compare two objects and return the object with larger time value and
+display it. Overload the ‘==’ operator to compare and display whether two
+given objects contain same distance value.
