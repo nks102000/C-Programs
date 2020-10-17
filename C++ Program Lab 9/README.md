@@ -7,13 +7,5 @@ Write a c++ program to demonstrate the concept of Virtual function.
 
 
 
-3rd Program
-
-
-
-4th program
-
-
-5th program
 
 
