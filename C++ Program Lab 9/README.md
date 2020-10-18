@@ -18,4 +18,8 @@ information to a particular type of media.
 
 4rd Program
 
+Create a class shape. Derived 3 classes from it: Circle, Square, Triangle. Find
+area of each shape and display it. Using pure virtual function and abstract base
+class.
+
 
