@@ -10,6 +10,10 @@ various number systems. Include input function in the appropriate class.
 
 
 3rd Program
+Create a class media having data members title and price. Derived two classes
+Book, Tape from it. Book class has number of pages as a data member and Tape
+class has time to play as data member. Using Virtual function, display the
+information to a particular type of media.
 
 
 
