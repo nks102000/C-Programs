@@ -24,4 +24,10 @@ class.
 
 5th Program
 
+Create a class which stores employ name, id and salary. Derived two classes
+from Employee class: Regular and Part-time. Regular class stores DA, HRA
+and basic salary the part time class stores the number of hours and pay per
+hour. Calculate the salary of regular employee and part time employ using
+virtual function. Display salary.
+
 
