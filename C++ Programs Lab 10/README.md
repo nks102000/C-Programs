@@ -25,3 +25,11 @@ taking sorting an array of numbers as an examples.
 (Class Template) Write a program to define a class template for reading
 two data items from the keyboard and find out their sum.
 
+6th Program
+(Class Template) Write a class template to represent a generic vector.
+Include member functions to perform the following tasks:
+ To create the vector.
+ To modify the value of a given element.
+ To multiply the vector by a scalar value.
+ To display the vector in the form (10, 20, 30,…..)
+
