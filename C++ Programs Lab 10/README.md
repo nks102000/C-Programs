@@ -16,3 +16,8 @@ characters etc.
 element from an array. Illustrate how you perform search in integer,
 character as well as double arrays using the same template function.
 
+4th program
+(Non-type as function parameters) Write a program to demonstrate the
+concept behind function templates with non-type as function parameters by
+taking sorting an array of numbers as an examples.
+
