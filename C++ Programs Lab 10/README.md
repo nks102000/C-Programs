@@ -31,5 +31,5 @@ Include member functions to perform the following tasks:
  To create the vector.
  To modify the value of a given element.
  To multiply the vector by a scalar value.
- To display the vector in the form (10, 20, 30,…..)
+ To display the vector in the form (10, 20, 30,…..).
 
