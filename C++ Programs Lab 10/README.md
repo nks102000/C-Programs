@@ -33,10 +33,16 @@ Include member functions to perform the following tasks:
  To multiply the vector by a scalar value.
  To display the vector in the form (10, 20, 30,…..).
 
-7TH Program
+7th Program
 (Class Template) Write a program to explain class template by creating a
 template T for a class named pair having two data members of type T which
 are inputted by a constructor and a member function get-max() return the
 greatest of two numbers to main. Note: the value of T depends upon the data
 type specified during object creation.
+
+8th Program
+(Class Template) Design a generic stack class which can be used to create
+integer, character or floating point stack objects. Provide all necessary data
+members and member functions (push, pop, display &amp; default constructor)
+to operate on the stack.
 
