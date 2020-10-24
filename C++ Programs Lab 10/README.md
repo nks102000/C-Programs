@@ -33,3 +33,10 @@ Include member functions to perform the following tasks:
  To multiply the vector by a scalar value.
  To display the vector in the form (10, 20, 30,…..).
 
+7TH Program
+(Class Template) Write a program to explain class template by creating a
+template T for a class named pair having two data members of type T which
+are inputted by a constructor and a member function get-max() return the
+greatest of two numbers to main. Note: the value of T depends upon the data
+type specified during object creation.
+
