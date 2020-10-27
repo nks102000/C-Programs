@@ -7,6 +7,6 @@ Exception Handeling Of Divisible By Zero.
 Exception Handeling Of Array Index Out Of Bound
 
 3rd Program
-
+Multiple Exception Handelling Of know type
 
 4th Program
